@@ -84,7 +84,5 @@ y=time.time()
 print(y-x)
  
  
-# In[ ]:
- 
 #blanks = 0 points
 #no backwards words
