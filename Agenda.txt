@@ -2,5 +2,8 @@ Backend:
 -Implement triple/double letter scores
 -Implement blanks
 -Implement secondary function for wrapping words
+-Implement Random Letter Picker
+
 
 Gui/Matrix:
+-Implement User input for Array
