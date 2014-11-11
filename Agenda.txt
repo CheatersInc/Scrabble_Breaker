@@ -1,0 +1,6 @@
+Backend:
+-Implement triple/double letter scores
+-Implement blanks
+-Implement secondary function for wrapping words
+
+Gui/Matrix:
